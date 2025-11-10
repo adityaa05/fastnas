@@ -1,0 +1,5 @@
+your-custom-domain.example
+
+# Copy this file to `CNAME` and replace the value above with your domain
+# (for example: example.com). Commit the `CNAME` file to enable the custom domain
+# on GitHub Pages. If you do not want a custom domain, you can ignore/delete this file.

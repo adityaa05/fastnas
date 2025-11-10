@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Agrandir';
+  src: url('assets/fonts/Agrandir-Regular.otf') format('opentype'),
+       url('assets/fonts/Agrandir-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Agrandir';
+  src: url('assets/fonts/Agrandir-TextBold.otf') format('opentype'),
+       url('assets/fonts/Agrandir-TextBold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Horizon';
+  src: url('assets/fonts/Horizon.woff2') format('woff2'),
+       url('assets/fonts/Horizon.woff2') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Agrandir', sans-serif;
+  background-color: #c80000;
+  color: #eeebdd;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
