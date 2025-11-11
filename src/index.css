@@ -4,8 +4,8 @@
 
 @font-face {
   font-family: 'Agrandir';
-  src: url('/personal-fastNAS-website/assets/fonts/Agrandir-Regular.otf') format('opentype'),
-       url('/personal-fastNAS-website/assets/fonts/Agrandir-Regular.otf') format('opentype');
+  src: url('/fastnas/assets/fonts/Agrandir-Regular.otf') format('opentype'),
+       url('/fastnas/assets/fonts/Agrandir-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -13,8 +13,8 @@
 
 @font-face {
   font-family: 'Agrandir';
-  src: url('/personal-fastNAS-website/assets/fonts/Agrandir-TextBold.otf') format('opentype'),
-       url('/personal-fastNAS-website/assets/fonts/Agrandir-TextBold.otf') format('opentype');
+  src: url('/fastnas/assets/fonts/Agrandir-TextBold.otf') format('opentype'),
+       url('/fastnas/assets/fonts/Agrandir-TextBold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -22,8 +22,8 @@
 
 @font-face {
   font-family: 'Horizon';
-  src: url('/personal-fastNAS-website/assets/fonts/Horizon.woff2') format('woff2'),
-       url('/personal-fastNAS-website/assets/fonts/Horizon.woff2') format('woff');
+  src: url('/fastnas/assets/fonts/Horizon.woff2') format('woff2'),
+       url('/fastnas/assets/fonts/Horizon.woff2') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
